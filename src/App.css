@@ -1,0 +1,30 @@
+.light {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+.lightText {
+  background-color: white;
+  color: black;
+}
+.lightText button{
+    border: solid 1px black;
+}
+.darkText button{
+    border: solid 1px white;
+}
+.darkText {
+  background-color: black;
+  color: white;
+}
+
+input {
+  padding: 8px 16px;
+  outline: none;
+  border: 1px,solid grey;
+  border-radius: 20px;
+  margin: 20px;
+}
